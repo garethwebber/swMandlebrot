@@ -1,0 +1,2 @@
+# swMandlebrot
+Mandlebrot rendering 
